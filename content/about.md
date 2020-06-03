@@ -2,7 +2,7 @@
 title = "About me"
 +++
 
-My name is Kenny Van de Maele, currently [26](. "note to self: add a code snippet to automatically calculate my age so I don't have to update this number in the future") years old.
+Hello! My name is Kenny Van de Maele, currently [26](. "note to self: add a code snippet to automatically calculate my age so I don't have to update this number in the future") years old.
 
 I live in the city of [Aalst](https://www.youtube.com/watch?v=drLmRc51Lbw), in Flanders, Belgium.
 
@@ -10,17 +10,25 @@ I'm currently working at [Adimian](https://adimian.com) as a Senior DevOps Engin
 
 Some of the things I specialise in are:
 - "Oldschool" Linux System Administration
+	- CentOS/RedHat Enterprise Linux
 	- Deploying and maintaining bare-metal and virtual systems
-	- Physical installations
-	- Virtual and bare-metal OS deployment
-	- Monitoring and alerting
+	- Administrating VMware, XenServer, RHEV hypervisors
+	- Physical hardware installations
+	- Monitoring and alerting (Icinga2 etc.)
 - Working closely together with in-house development (java, python, ...)
 - Modernising existing in-house stacks
 	- Applying new tooling to existing workflows and applications
-	- Guiding development with migrations to new-age technologies such as Docker and AWS.
+	- Guiding development with migrations to new-age technologies such as Docker/K8S and AWS.
 	- Identifying and fixing weak points in (not so) High-Available applications
 - Logging (ELK)
 - Networking (CCNA-level+ understanding of low-level communications both on metal equipment and cloud shenanigans)
+- Scripting and automating
+- I'm moderately proficient in Python3, but I'm not focused on development.
+
+Languages I (somewhat) speak:
+- Dutch/Flemish (Native speaker)
+- English (Highly proficient in all aspects)
+- French (_Je tire mon plan._ Not very fluent.)
 
 ## Origins
 
@@ -35,7 +43,8 @@ Around 2007, aged 14, I finally received a modern computer. It was a glorious lo
 
 Frustrated with the color blue, I discovered something called "Linux". It didn't take long before I had liberated my computer, and simultaneously made my life a bit more incompatible with a very microsoft-oriented school system.
 
-I started out with Ubuntu 8.04 , and learned to do things the hard (but satisfying) way.
+I started out with Ubuntu 8.04 , and learned to do things the hard (but satisfying) way. 
+I still appreciate ubuntu for what it is, but all my personal systems are now running Arch Linux. In the professional world my experience lies with CentOS/Redhat.
 
 In highschool, I took the "Industrial ICT" specialisation, and learned a lot about electronics and computers in general. I developed an interest in microcontrollers and custom circuits, and for my 6th year final project, I built a computer-controlled car with WLAN capabilities, with motor-controllers and microcontroller firmware of my own design. It sported an IP Cam on the top, and is still an accomplishment I'm very proud of. Unfortunately I've lost all information and pictures regarding this project.
 

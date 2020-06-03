@@ -17,6 +17,6 @@ I'm sure I will deviate from this, and include posts about personal hobbies and 
 
 You can also read more [about](/about/) me, or [contact](/contact) me.
 
-Please don't abuse my contact details to send me unsolicited job offers or other spam.
+Please don't abuse my contact details to send me unsolicited job opportunities or other spam.
 
 ![xkcd comic](https://imgs.xkcd.com/comics/email_reply.png)
