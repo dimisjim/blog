@@ -1,5 +1,5 @@
 theme = "soho"
-baseurl = "https://example.com/"
+baseurl = "https://vdmkenny.github.io/blog/"
 languageCode = "en"
 title = "Kenny's Lair"
 DefaultContentLanguage = "en"
