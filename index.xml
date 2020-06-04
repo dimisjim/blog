@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Kenny's Lair</title><link>https://example.com/</link><description>Recent content in Home on Kenny's Lair</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://example.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/about/</guid><description>Hello! My name is Kenny Van de Maele, currently 26 years old.</description></item><item><title>How to contact me</title><link>https://example.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/contact/</guid><description>I&amp;rsquo;m currently migrating my personal e-mail away from Google and towards a more professional set-up.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Kenny&#39;s Lair</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on Kenny&#39;s Lair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Hello! My name is Kenny Van de Maele, currently 26 years old.</description>
+    </item>
+    
+    <item>
+      <title>How to contact me</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>I&amp;rsquo;m currently migrating my personal e-mail away from Google and towards a more professional set-up.</description>
+    </item>
+    
+  </channel>
+</rss>
